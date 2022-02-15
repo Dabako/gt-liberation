@@ -1,4 +1,4 @@
-![KP Liberation](https://www.killahpotatoes.de/images/arma/liberation.png)
+![GT Liberation](https://www.killahpotatoes.de/images/arma/liberation.png)
 
 # GT Liberation for Arma 3
 
