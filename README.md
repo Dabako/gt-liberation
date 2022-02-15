@@ -1,21 +1,21 @@
 ![KP Liberation](https://www.killahpotatoes.de/images/arma/liberation.png)
 
-# KP Liberation for Arma 3
+# GT Liberation for Arma 3
 
-[![CI](https://github.com/KillahPotatoes/KP-Liberation/workflows/CI/badge.svg)](https://github.com/KillahPotatoes/KP-Liberation/actions?query=workflow%3ACI)
-[![license](https://img.shields.io/github/license/KillahPotatoes/KP-Liberation.svg)](https://github.com/KillahPotatoes/KP-Liberation/blob/master/LICENSE.md)
-[![GitHub release](https://img.shields.io/github/release/KillahPotatoes/KP-Liberation.svg)](https://github.com/KillahPotatoes/KP-Liberation/releases)
-[![GitHub Release Date](https://img.shields.io/github/release-date/KillahPotatoes/KP-Liberation.svg)](https://github.com/KillahPotatoes/KP-Liberation/releases)
+[![CI](https://github.com/dabako/gt-Liberation/workflows/CI/badge.svg)](https://github.com/dabako/gt-Liberation/actions?query=workflow%3ACI)
+[![license](https://img.shields.io/github/license/dabako/gt-Liberation.svg)](https://github.com/dabako/gt-Liberation/blob/master/LICENSE.md)
+[![GitHub release](https://img.shields.io/github/release/dabako/gt-Liberation.svg)](https://github.com/dabako/gt-Liberation/releases)
+[![GitHub Release Date](https://img.shields.io/github/release-date/dabako/gt-Liberation.svg)](https://github.com/dabako/gt-Liberation/releases)
 
-[![Github All Releases](https://img.shields.io/github/downloads/KillahPotatoes/KP-Liberation/total.svg)](https://github.com/KillahPotatoes/KP-Liberation)
-[![GitHub stars](https://img.shields.io/github/stars/KillahPotatoes/KP-Liberation)](https://github.com/KillahPotatoes/KP-Liberation/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues-raw/KillahPotatoes/KP-Liberation.svg)](https://github.com/KillahPotatoes/KP-Liberation/issues)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/KillahPotatoes/KP-Liberation.svg)](https://github.com/KillahPotatoes/KP-Liberation/issues?q=is%3Aissue+is%3Aclosed)
+[![Github All Releases](https://img.shields.io/github/downloads/dabako/gt-Liberation/total.svg)](https://github.com/dabako/gt-Liberation)
+[![GitHub stars](https://img.shields.io/github/stars/dabako/gt-Liberation)](https://github.com/dabako/gt-liberation/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues-raw/dabako/gt-Liberation.svg)](https://github.com/dabako/gt-Liberation/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/dabako/gt-Liberation.svg)](https://github.com/dabako/gt-Liberation/issues?q=is%3Aissue+is%3Aclosed)
 
-[![GitHub contributors](https://img.shields.io/github/contributors/KillahPotatoes/KP-Liberation)](https://github.com/KillahPotatoes/KP-Liberation/graphs/contributors)
-[![GitHub forks](https://img.shields.io/github/forks/KillahPotatoes/KP-Liberation)](https://github.com/KillahPotatoes/KP-Liberation/network)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/KillahPotatoes/KP-Liberation.svg)](https://github.com/KillahPotatoes/KP-Liberation/pulls)
-[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/KillahPotatoes/KP-Liberation.svg)](https://github.com/KillahPotatoes/KP-Liberation/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub contributors](https://img.shields.io/github/contributors/dabako/gt-Liberation)](https://github.com/dabako/gt-Liberation/graphs/contributors)
+[![GitHub forks](https://img.shields.io/github/forks/dabako/gt-Liberation)](https://github.com/dabako/gt-Liberation/network)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/dabako/gt-Liberation.svg)](https://github.com/dabako/gt-Liberation/pulls)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/dabako/gt-Liberation.svg)](https://github.com/dabako/gt-Liberation/pulls?q=is%3Apr+is%3Aclosed)
 
 [![Gruppa Tunguska Teamspeak](DabakoWorld.de)](dabakoworld.de)
 
@@ -23,6 +23,7 @@
 
 
 This mission is only a continued project based on a continued, but most likely abandoned, mission from [KillerPotatoes](https://github.com/KillahPotatoes/KP-Liberation).
+
 The mission from KillerPotatoes based on an abandoned mission from [GreuhZbug](https://github.com/GreuhZbug).
 [Original Liberation mission v0.924](https://github.com/GreuhZbug/greuh_liberation.Altis)
 
