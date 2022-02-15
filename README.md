@@ -17,19 +17,18 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/KillahPotatoes/KP-Liberation.svg)](https://github.com/KillahPotatoes/KP-Liberation/pulls)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/KillahPotatoes/KP-Liberation.svg)](https://github.com/KillahPotatoes/KP-Liberation/pulls?q=is%3Apr+is%3Aclosed)
 
-[![KP Discord](https://img.shields.io/discord/154937272368758784?label=Discord)](https://discord.gg/Qk35Sw8)
+[![Gruppa Tunguska Teamspeak](DabakoWorld.de)](dabakoworld.de)
 
 [BI Forum Thread](https://forums.bistudio.com/topic/202711-mpcti-coop-liberation-continued/)
 
-[Steam Workshop](http://steamcommunity.com/id/wyqer/myworkshopfiles/?appid=107410)
 
-This mission is only a continued project based on the original, but most likely abandoned, mission from [GreuhZbug](https://github.com/GreuhZbug).
-
+This mission is only a continued project based on a continued, but most likely abandoned, mission from [KillerPotatoes](https://github.com/KillahPotatoes/KP-Liberation).
+The mission from KillerPotatoes based on an abandoned mission from [GreuhZbug](https://github.com/GreuhZbug).
 [Original Liberation mission v0.924](https://github.com/GreuhZbug/greuh_liberation.Altis)
 
 If you like the work and think it's worth a small donation, feel free to use the following link:
 
-[Donate via paypal.me](https://www.paypal.me/wyqer)
+[Donate via paypal.me](https://www.paypal.me/dabakoworld)
 
 ## Overview
 The area has fallen to the enemy, and it is up to you to take it back. Embark on a persistent campaign with your teammates to liberate all the major cities of the area that will most likely span several weeks of real time.
