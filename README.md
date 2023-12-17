@@ -17,7 +17,7 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/dabako/gt-Liberation.svg)](https://github.com/dabako/gt-Liberation/pulls)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/dabako/gt-Liberation.svg)](https://github.com/dabako/gt-Liberation/pulls?q=is%3Apr+is%3Aclosed)
 
-[![Gruppa Tunguska Teamspeak](DabakoWorld.de)](dabakoworld.de)
+[![Gruppa Tunguska Teamspeak](DabakoWorld.de)](https://dabakoworld.de)
 
 [BI Forum Thread](https://forums.bistudio.com/topic/202711-mpcti-coop-liberation-continued/)
 
