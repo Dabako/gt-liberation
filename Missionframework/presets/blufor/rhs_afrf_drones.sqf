@@ -112,7 +112,7 @@ heavy_vehicles = [
 air_vehicles = [
     ["O_UAV_01_F",75,0,25],                                             // AR-2 Tayran
     ["O_UAV_06_F",80,0,30],                                             // AL-6 Jinaah (Cargo)
-    ["orlan_tripod_launcher_OPF",75,0,25],                               // Orlan Drone Launcher 
+    ["orlan_tripod_launcher_OPF",75,0,25],                              // Orlan Drone Launcher 
     ["rhs_ka60_c",200,0,100],                                           // KA-60
     ["RHS_Mi8AMT_vdv",225,0,125],                                       // Mi-8AMT (Unarmed)
     ["RHS_Mi8MTV3_vdv",225,200,125],                                    // Mi-8MTV-3
@@ -274,7 +274,7 @@ support_vehicles = [
 
 // Light infantry squad.
 blufor_squad_inf_light = [
-    "rhs_vdv_sergeant    ",
+    "rhs_vdv_sergeant",
     "rhs_vdv_rifleman",
     "rhs_vdv_LAT",
     "rhs_vdv_at",
@@ -288,7 +288,7 @@ blufor_squad_inf_light = [
 
 // Heavy infantry squad.
 blufor_squad_inf = [
-    "rhs_vdv_sergeant    ",
+    "rhs_vdv_sergeant",
     "rhs_vdv_rifleman",
     "rhs_vdv_LAT",
     "rhs_vdv_grenadier_alt",
@@ -302,7 +302,7 @@ blufor_squad_inf = [
 
 // AT specialists squad.
 blufor_squad_at = [
-    "rhs_vdv_sergeant    ",
+    "rhs_vdv_sergeant",
     "rhs_vdv_rifleman",
     "rhs_vdv_LAT",
     "rhs_vdv_at",
@@ -314,7 +314,7 @@ blufor_squad_at = [
 
 // AA specialists squad.
 blufor_squad_aa = [
-    "rhs_vdv_sergeant    ",
+    "rhs_vdv_sergeant",
     "rhs_vdv_rifleman",
     "rhs_vdv_LAT",
     "rhs_vdv_aa",

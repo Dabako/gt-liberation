@@ -17,7 +17,7 @@ switch (KP_liberation_preset_blufor) do {
     case  6: {[] call compileFinal preprocessFileLineNumbers "presets\blufor\rhs_usaf_wdl.sqf";};
     case  7: {[] call compileFinal preprocessFileLineNumbers "presets\blufor\rhs_usaf_des.sqf";};
     case  8: {[] call compileFinal preprocessFileLineNumbers "presets\blufor\rhs_afrf.sqf";};
-    case  9: {[] call compileFinal preprocessFileLineNumbers "presets\blufor\rhs_afrf_drones.sqf"}
+    case  9: {[] call compileFinal preprocessFileLineNumbers "presets\blufor\rhs_afrf_drones.sqf";};
     case 10: {[] call compileFinal preprocessFileLineNumbers "presets\blufor\gm_west.sqf";};
     case 11: {[] call compileFinal preprocessFileLineNumbers "presets\blufor\gm_west_win.sqf";};
     case 12: {[] call compileFinal preprocessFileLineNumbers "presets\blufor\gm_east.sqf";};
@@ -65,7 +65,7 @@ switch (KP_liberation_preset_opfor) do {
     case 19: {[] call compileFinal preprocessFileLineNumbers "presets\opfor\CUP_BAF_Desert.sqf";};
     case 20: {[] call compileFinal preprocessFileLineNumbers "presets\opfor\CUP_BAF_Woodland.sqf";};
     case 21: {[] call compileFinal preprocessFileLineNumbers "presets\opfor\rhs_usaf_wdl.sqf";};
-    case 22: {[] call compileFinal preprocessFileLineNumbers "presets\opfor\CDF_Nodern.sqf"}
+    case 22: {[] call compileFinal preprocessFileLineNumbers "presets\opfor\CDF_Modern.sqf";};
     default  {[] call compileFinal preprocessFileLineNumbers "presets\opfor\custom.sqf";};
 };
 
