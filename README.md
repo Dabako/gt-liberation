@@ -108,6 +108,8 @@ You can play every map without any mods (only the maps themself) if you set the 
 * Weferlingen Winter
     * Global Mobilization CDLC
 * Chernarus 2020
+    * [CUP Terrains - Core](http://steamcommunity.com/sharedfiles/filedetails/?id=583496184)
+    * [CUP Terrains - Maps 2.0](https://steamcommunity.com/sharedfiles/filedetails/?id=1981964169)
     * [RHS: Armed Forces of the Russian Federation](http://steamcommunity.com/sharedfiles/filedetails/?id=843425103)
     * [RHS: United States Forces](http://steamcommunity.com/sharedfiles/filedetails/?id=843577117)
     * [RHS: GREen Forces](https://steamcommunity.com/sharedfiles/filedetails/?id=843593391)
