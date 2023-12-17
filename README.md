@@ -117,8 +117,6 @@ You can play every map without any mods (only the maps themself) if you set the 
     * [Orion UAV](https://steamcommunity.com/sharedfiles/filedetails/?id=3093850989)
     * [Orlan UAV](https://steamcommunity.com/sharedfiles/filedetails/?id=3083949886)
 
-    \*TODO Needed Mods Cherarus 2020
-
 
 ## Recommended Mods
 These mods are recommended by us, as they are likely to increase your gaming experience:
