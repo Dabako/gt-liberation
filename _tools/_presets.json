@@ -262,5 +262,19 @@
             "KP_liberation_arsenal": 0
         },
         "workshopId": ""
+    },
+    {
+        "sourceFolder": "kp_liberation.cup_chernarus_A3",
+        "missionName": "kpLiberation_afrf",
+        "map": "cup_chernarus_A3",
+        "configFile": "kp_liberation_config.sqf",
+        "variables": {
+            "KP_liberation_preset_blufor": 9,
+            "KP_liberation_preset_opfor": 22,
+            "KP_liberation_preset_resistance": 2,
+            "KP_liberation_preset_civilians": 3,
+            "KP_liberation_arsenal": 0
+        },
+        "workshopId": ""
     }
 ]

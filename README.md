@@ -107,6 +107,18 @@ You can play every map without any mods (only the maps themself) if you set the 
     * Global Mobilization CDLC
 * Weferlingen Winter
     * Global Mobilization CDLC
+* Chernarus 2020
+    * [RHS: Armed Forces of the Russian Federation](http://steamcommunity.com/sharedfiles/filedetails/?id=843425103)
+    * [RHS: United States Forces](http://steamcommunity.com/sharedfiles/filedetails/?id=843577117)
+    * [RHS: GREen Forces](https://steamcommunity.com/sharedfiles/filedetails/?id=843593391)
+    * [RHS: Serbian Armed Forces](https://steamcommunity.com/sharedfiles/filedetails/?id=843632231)
+    * [CDF-GSFL](https://steamcommunity.com/sharedfiles/filedetails/?id=2872102180)
+    * [RDS Civilian Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=612930542)
+    * [Orion UAV](https://steamcommunity.com/sharedfiles/filedetails/?id=3093850989)
+    * [Orlan UAV](https://steamcommunity.com/sharedfiles/filedetails/?id=3083949886)
+
+    \*TODO Needed Mods Cherarus 2020
+
 
 ## Recommended Mods
 These mods are recommended by us, as they are likely to increase your gaming experience:
