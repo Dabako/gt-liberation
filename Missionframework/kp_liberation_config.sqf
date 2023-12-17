@@ -134,7 +134,8 @@ KP_liberation_preset_blufor = 0;
 18 = CUP Chernarus Defense Force
 19 = CUP British Armed Forces (Desert)
 20 = CUP British Armed Forces (Woodland) 
-21 = RHS USAF (Woodland)*/
+21 = RHS USAF (Woodland)\
+22 = CDF Modern*/
 KP_liberation_preset_opfor = 0;
 
 /* Resistance preset:
