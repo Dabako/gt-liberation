@@ -121,13 +121,10 @@ You can play every map without any mods (only the maps themself) if you set the 
 ## Recommended Mods
 These mods are recommended by us, as they are likely to increase your gaming experience:
 * [ACE](https://steamcommunity.com/sharedfiles/filedetails/?id=463939057)
-* [ACE Compat - RHS Armed Forces of the Russian Federation](https://steamcommunity.com/workshop/filedetails/?id=773131200)
-* [ACE Compat - RHS United States Armed Forces](https://steamcommunity.com/workshop/filedetails/?id=773125288)
 * [ACE3 - BWMOD Compatibility](https://steamcommunity.com/sharedfiles/filedetails/?id=1200145989)
 * [ACRE 2](https://steamcommunity.com/sharedfiles/filedetails/?id=751965892)
 * [Advanced Urban Rappeling](https://steamcommunity.com/sharedfiles/filedetails/?id=730310357)
 * [CBA_A3](https://steamcommunity.com/sharedfiles/filedetails/?id=450814997)
-* [Discord Rich Presence](https://steamcommunity.com/sharedfiles/filedetails/?id=1493485159)
 * [DUI - Squad Radar](https://steamcommunity.com/sharedfiles/filedetails/?id=1638341685)
 * [Enhanced Movement](https://steamcommunity.com/sharedfiles/filedetails/?id=333310405)
 * [Immerse](https://steamcommunity.com/sharedfiles/filedetails/?id=825172265)
