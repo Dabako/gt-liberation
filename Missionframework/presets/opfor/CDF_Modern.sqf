@@ -138,7 +138,7 @@ opfor_troup_transports = [
     "ACM_B_CDF_Vehicle_BMP1p",                                          // BMP-1P
     "ACM_B_CDF_Vehicle_BMD2M",                                          // BMD-2M
     "ACM_B_CDF_Vehicle_Air_Mi8",                                        // Mi-8
-    "ACM_B_CDF_Vehicle_Air_Mi17Sh"                                      // Mi-8MT
+    "ACM_B_CDF_Vehicle_Air_Mi17Sh",                                      // Mi-8MT
     "ACM_B_CDF_Vehicle_Air_Mi24D",                                      // MI-24D
     "ACM_B_CDF_Vehicle_Air_Mi35",                                       // MI-24V
     "ACM_B_CDF_Vehicle_Air_Mi24G"                                       // MI-24G
