@@ -112,7 +112,7 @@ heavy_vehicles = [
 air_vehicles = [
     ["O_UAV_01_F",75,0,25],                                             // AR-2 Tayran
     ["O_UAV_06_F",80,0,30],                                             // AL-6 Jinaah (Cargo)
-    ["orlan_tripod_launcher_OPF",75,0,25],                              // Orlan Drone Launcher 
+    ["orlan_F_OPF",75,0,25],                                            // Orlan Launcher
     ["rhs_ka60_c",200,0,100],                                           // KA-60
     ["RHS_Mi8AMT_vdv",225,0,125],                                       // Mi-8AMT (Unarmed)
     ["RHS_Mi8MTV3_vdv",225,200,125],                                    // Mi-8MTV-3
@@ -131,6 +131,7 @@ static_vehicles = [
     ["RHS_AGS30_TriPod_VDV",25,60,0],                                   // AGS30 Low Tripod
     ["rhs_Kornet_9M133_2_vdv",50,100,0],                                // Kornet (AT)
     ["rhs_Igla_AA_pod_vdv",50,100,0],                                   // Igla Pod (AA)
+    ["orlan_tripod_launcher_OPF",75,0,25],                              // Orlan Drone Launcher 
     ["RHS_ZU23_VDV",80,120,0],                                          // ZU-23
     ["rhs_SPG9M_VDV",40,90,0],                                          // SPG-9 Low Tripod
     ["rhs_D30_vdv",100,200,0],                                          // D-30
