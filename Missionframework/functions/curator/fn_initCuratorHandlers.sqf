@@ -2,7 +2,7 @@
     File: fn_initCuratorHandlers.sqf
     Author: KP Liberation Dev Team - https://github.com/KillahPotatoes
     Date: 2020-08-07
-    Last Update: 2020-08-30
+    Last Update: 2026-06-17
     License: MIT License - http://www.opensource.org/licenses/MIT
 
     Description:
@@ -32,9 +32,12 @@ if (isServer) then {
         if (isNull _player) exitWith {};
         private _uid = getPlayerUID _player;
 
+        [format ["Server received KPLIB_createZeus for %1 (limited: %2, isDedicated: %3)", name _player, _limited, isDedicated], "ZEUS"] call KPLIB_fnc_log;
+
         // check if there's already a managed zeus module for this player, if so we can just reassign
         private _oldManagedZeus = missionNamespace getVariable [ZEUSVAR(_uid), objNull];
         if (!isNull _oldManagedZeus && {_limited isEqualTo (_oldManagedZeus getVariable ["KPLIB_limited", -1])}) exitWith {
+            [format ["Server reassigning existing zeus module to %1", name _player], "ZEUS"] call KPLIB_fnc_log;
             _player assignCurator _oldManagedZeus;
             [true, "KPLIB_zeusAssigned", [_oldManagedZeus]] remoteExecCall ["BIS_fnc_callScriptedEventHandler", _player];
         };
@@ -69,6 +72,7 @@ if (isServer) then {
 
         _player assignCurator _zeus;
 
+        [format ["Server created and assigned zeus module %1 to %2, sending KPLIB_zeusAssigned", _zeus, name _player], "ZEUS"] call KPLIB_fnc_log;
         [true, "KPLIB_zeusAssigned", [_zeus, _limited]] remoteExecCall ["BIS_fnc_callScriptedEventHandler", _player];
     }] call BIS_fnc_addScriptedEventHandler;
 
@@ -78,7 +82,9 @@ if (isServer) then {
             ["_addons", [], [[]]]
         ];
 
+        [format ["Server received KPLIB_activateZeusAddons for %1 with %2 addon(s): %3", _zeus, count _addons, _addons], "ZEUS"] call KPLIB_fnc_log;
         _zeus addCuratorAddons _addons;
+        [format ["Server zeus %1 now has addons: %2", _zeus, getCuratorAddons _zeus], "ZEUS"] call KPLIB_fnc_log;
     }] call BIS_fnc_addScriptedEventHandler;
 
     // remove the assigned curator on player disconnect
@@ -99,6 +105,8 @@ if (hasInterface) then {
             ["_limited", false, [true]]
         ];
 
+        [format ["Client received KPLIB_zeusAssigned for zeus %1 (limited: %2, isDedicated: %3)", _zeus, _limited, isDedicated], "ZEUS"] call KPLIB_fnc_log;
+
         if !(_zeus getVariable ["KPLIB_drawCuratorLocations", false]) then {
             _zeus setVariable ["KPLIB_drawCuratorLocations", true];
             [_zeus] call BIS_fnc_drawCuratorLocations;
@@ -106,6 +114,7 @@ if (hasInterface) then {
 
         if (!_limited) then {
             private _allAddons = ("true" configClasses (configFile >> "CfgPatches")) apply {configName _x};
+            [format ["Client computed %1 addon(s) locally, sending KPLIB_activateZeusAddons to server: %2", count _allAddons, _allAddons], "ZEUS"] call KPLIB_fnc_log;
             [true, "KPLIB_activateZeusAddons", [_zeus, _allAddons]] remoteExecCall ["BIS_fnc_callScriptedEventHandler", 2];
         };
     }] call BIS_fnc_addScriptedEventHandler;
